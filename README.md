@@ -7,7 +7,7 @@ Sms Bomber for Russia and Ukraine
 
 # 🌐 Installing 🌐 #
 ```
-cd paradise
+cd SMS-Bomb3er
 pip install -r requirements.txt
 python main.py
 ```
